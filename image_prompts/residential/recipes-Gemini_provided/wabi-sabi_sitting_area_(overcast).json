@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "rural",
+    "scene_scale": "medium_shot",
+    "time_of_day": "overcast_day",
+    "time_of_year": "autumn",
+    "weather": "overcast",
+    "view_from_window": "misty_field"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "wabi_sabi",
+    "secondary_styles": ["minimalist"],
+    "regional_style": "japanese",
+    "era": "contemporary",
+    "design_philosophy": "less_is_more",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "calm",
+    "secondary_moods": ["serene", "minimal", "somber"],
+    "vibe": "a_space_for_quiet_reflection",
+    "color_palette_type": "earth_tones",
+    "dominant_colors": ["beige", "greige", "taupe"],
+    "accent_colors": ["dark_brown"],
+    "color_temperature_bias": "neutral",
+    "pattern_use": "none"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "modern",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "polished_concrete",
+    "wall_finish": "venetian_plaster",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "none",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["simple_linen_sofa", "antique_wooden_stool"],
+    "furniture_style": "wabi_sabi",
+    "furniture_age_condition": "antique",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "sheer_curtains",
+    "primary_materials": ["raw_wood", "linen", "plaster", "clay", "stone"],
+    "decor_items": ["handcrafted_pottery", "dried_grasses", "one_worn_book"],
+    "wall_decor": "none",
+    "textiles": ["rumpled_linen_throw", "simple_jute_rug"],
+    "rug_style": "jute_rug",
+    "plants": "dried_flowers",
+    "lighting_fixtures_style": "simple_pendant_light"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "large_picture_windows",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "moderate",
+    "artificial_light_sources": [],
+    "artificial_light_type": "none",
+    "artificial_light_temperature": "neutral",
+    "artificial_light_intensity": "none",
+    "shadow_quality": "soft_diffused",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "vignette",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "rule_of_thirds",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "1:1"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "shallow",
+    "image_style": "photorealistic",
+    "film_stock_style": null,
+    "saturation": "desaturated",
+    "contrast": "low_contrast",
+    "vignetting": "subtle"
+  },
+  "context_and_story": {
+    "level_of_clutter": "minimal",
+    "age_of_space": "gently_aged",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

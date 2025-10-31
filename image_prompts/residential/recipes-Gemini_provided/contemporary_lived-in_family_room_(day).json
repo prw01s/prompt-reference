@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "family_room",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "afternoon",
+    "time_of_year": "autumn",
+    "weather": "clear",
+    "view_from_window": "backyard"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "contemporary",
+    "secondary_styles": [],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "form_follows_function",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "casual",
+    "secondary_moods": ["inviting", "warm", "relaxed"],
+    "vibe": "a_normal_family_home",
+    "color_palette_type": "neutral_tones",
+    "dominant_colors": ["greige", "navy_blue"],
+    "accent_colors": ["grey", "white"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "minimal"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "contemporary",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "engineered_wood",
+    "wall_finish": "paint",
+    "windows_type": "sash_windows",
+    "fireplace_style": "none",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["large_comfy_sectional", "ottoman", "tv_console", "bookshelves"],
+    "furniture_style": "contemporary",
+    "furniture_age_condition": "lived_in",
+    "furniture_arrangement": "facing_tv",
+    "sofa_style": "sectional"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "blinds",
+    "primary_materials": ["cotton", "wood", "laminate", "metal"],
+    "decor_items": ["toys_on_floor", "family_photos", "books_on_coffee_table", "video_game_console"],
+    "wall_decor": "gallery_wall",
+    "textiles": ["area_rug", "throw_pillows", "throw_blanket"],
+    "rug_style": "jute_rug",
+    "plants": "several_potted_plants",
+    "lighting_fixtures_style": "recessed_lighting"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "sash_windows",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["recessed_lighting", "table_lamp"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "soft_diffused",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "medium_shot",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": null,
+    "saturation": "natural",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "lived_in",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "open_laptop",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

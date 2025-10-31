@@ -1,0 +1,95 @@
+{
+  "scene_and_location": {
+    "location_scope": "exterior", // "exterior", "common_area_interior", "individual_unit_interior", "transition" (e.g., "view_from_unit_balcony")
+    "building_type": "apartment_complex", // "apartment_complex", "condominium_complex", "grouped_townhouses", "duplex", "triplex", "quadplex", "mixed_use_building" (residential_over_retail), "co_living_space", "historic_rowhouses", "courtyard_apartment_building", "student_housing_dormitory", "senior_living_facility", "garden_apartment_complex"
+    "specific_location": "lobby", // (Exterior: "building_facade", "courtyard", "pool_deck", "parking_lot", "street_view_of_complex", "dumpster_area", "front_stoop", "gated_entry") (Common Area: "lobby", "mailroom", "package_room", "corridor_hallway", "elevator_cab", "elevator_lobby", "stairwell", "fitness_center", "community_lounge", "rooftop_terrace", "parking_garage", "shared_laundry_room", "leasing_office", "co_working_lounge", "cinema_room", "dog_washing_station", "bike_storage_room") (Unit: "unit_living_room", "unit_kitchen", "unit_bedroom", "unit_bathroom", "unit_balcony", "unit_patio", "unit_entryway", "walk_in_closet", "den", "home_office_nook")
+    "scene_focus": "lifestyle_amenity", // "architectural_shot", "lifestyle_amenity" (e.g., "pool"), "unit_interior_feature" (e.g., "kitchen"), "context_shot" (e.g., "street_view"), "detail_shot" (e.g., "fixture")
+    "geographical_setting": "suburban", // "urban_downtown", "urban_residential_street", "suburban", "transit_oriented_development", "master_planned_community", "student_housing_area", "waterfront", "historic_district", "industrial_conversion_area"
+    "building_scale": "mid_rise", // "low_rise" (1-3 stories), "mid_rise" (4-8 stories), "high_rise" (9+ stories), "tower_block", "garden_apartment_complex" (multiple low-rise buildings), "single_building", "scattered_site_townhomes"
+    "time_of_day": "afternoon", // "sunrise", "midday", "afternoon", "golden_hour", "dusk", "night"
+    "time_of_year": "summer", // "spring", "summer", "autumn",CSS "winter", "holiday_season"
+    "weather": "clear", // "clear", "sunny", "overcast", "rainy", "snowy", "foggy"
+    "weather_effect_on_scene": null // "none", "snow_piled_on_balconies", "wet_pavement_in_courtyard", "puddles_in_parking_lot", "harsh_midday_sun", "soft_overcast_light"
+  },
+  "complex_identity_and_tier": {
+    "property_tier": "class_a", // "luxury", "class_a" (new, high-end), "class_b" (workforce_housing), "class_c" (affordable), "student_housing", "senior_living_community", "co_living", "subsidized_housing", "brac" (below_rate_affordable_component)
+    "target_demographic": "young_professionals", // "young_professionals" (Yuppies), "students", "families_with_children", "seniors", "empty_nesters", "digital_nomads", "artists_and_creatives", "dinks" (double_income_no_kids)
+    "branding_style": "modern_and_minimal", // "modern_and_minimal", "corporate_and_clean", "boutique_hotel_vibe", "eco_friendly_sustainable", "historic_charm_preserved", "family_oriented", "playful_and_young" (e.g., "student_housing"), "budget_and_functional", "live_laugh_love_leasing_office"
+    "signage_presence": "prominent_monument_sign", // "none", "subtle_building_number", "prominent_monument_sign" (with complex name), "blade_signs", "leasing_office_sign", "flags_and_banners", "wayfinding_signs" (e.g., "building_a", "pool_this_way"), "ornate_historic_nameplate"
+    "promotional_signage": null, // "none", "now_leasing_banner", "move_in_special_a_frame_sign", "hard_hat_tours_sign", "for_rent_sign_in_window", "future_resident_parking_sign"
+    "maintenance_level": "well_maintained", // "brand_new_construction", "impeccably_manicured", "newly_renovated", "well_maintained", "cosmetically_updated" (e.g., "new_paint_old_fixtures"), "dated_but_clean", "average_wear_and_tear", "poorly_maintained" (e.g., "peeling_paint", "overgrown_weeds"), "graffiti_present", "dilapidated", "under_construction"
+    "age_of_property": "2010s" // "pre_war" (before 1945), "mid_century" (1950s-1970s), "late_20th_century" (1980s-1990s), "2000s", "2010s", "brand_new" (last 1-2 years), "historic_landmark"
+  },
+  "building_exterior_and_architecture": {
+    "architecture_style": "contemporary", // "contemporary", "modern_glass_tower", "brutalist", "historic_brick_warehouse_conversion", "googie_motel_style", "suburban_garden_style", "craftsman_duplex", "victorian_rowhouse", "mediterranean_revival_condos", "international_style", "art_deco", "postmodern" (1980s), "dingbat_style" (stucco_box_on_stilts), "six_plus_one_stick_frame"
+    "building_form": "u_shaped_around_courtyard", // "slab_block", "tower", "u_shaped_around_courtyard", "scattered_garden_style_buildings", "row_of_townhomes", "single_building_with_lightwell", "perimeter_block"
+    "building_materials": "brick_and_glass", // "glass_curtain_wall", "brick" (e.g., "red_brick", "blonde_brick"), "precast_concrete", "stucco", "efis" (exterior_insulation_and_finish_system), "vinyl_siding", "wood_siding", "metal_paneling", "stone_veneer", "cinder_block" (painted), "split_face_block"
+    "window_style": "floor_to_ceiling_glass", // "floor_to_ceiling_glass", "standard_punched_windows", "ribbon_windows", "bay_windows", "warehouse_style_grid_windows", "small_punched_openings", "arched_windows", "sliding_glass_doors", "single_hung_vinyl"
+    "unit_relationship": "stacked", // "stacked" (traditional apartment), "side_by_side" (townhouse/duplex), "row" (townhouses), "detached_condos"
+    "unit_access": "internal_hallway", // "internal_hallway" (double_loaded_corridor), "external_walkway" (motel-style), "private_ground_floor_entry", "stairwell_to_four_units" (quadplex), "open_air_breezeway"
+    "facade_features": "balconies", // "balconies" (e.g., "juliet", "inset", "wrap_around", "bolted_on"), "patios" (ground floor), "uniform_windows", "randomized_window_pattern", "storefront_ground_floor" (mixed-use), "fire_escapes", "external_staircases", "decorative_molding", "cornice", "spalling_concrete", "rust_stains", "green_wall_trellis"
+    "roof_style": "flat_roof" // "flat_roof", "pitched_roof", "mansard_roof", "green_roof", "roof_deck_amenity", "visible_hvac_equipment_on_roof"
+  },
+  "site_landscaping_and_amenities": {
+    "layout_of_complex": "multiple_buildings_in_a_complex", // "single_large_building", "multiple_buildings_in_a_complex", "dense_urban_block", "row_of_townhomes_with_street_frontage"
+    "parking_type": "surface_lot", // "surface_lot" (uncovered), "parking_garage_subterranean", "parking_garage_multi_level_podium", "tuck_under_parking", "carports", "on_street_parking", "private_driveways" (for townhouses), "tandem_parking", "assigned_spaces", "visitor_parking_zone"
+    "landscaping_style": "manicured_lawns", // "manicured_lawns_and_shrubs", "zero_scape_desert", "lush_courtyard_garden", "urban_planters_and_trees", "minimalist_hardscape", "community_garden_plots", "native_plants", "overgrown_and_unkept", "dying_grass", "mulch_beds"
+    "exterior_amenities": "swimming_pool", // "swimming_pool" (e.g., "resort_style", "basic_rectangle"), "hot_tub", "playground", "dog_park", "bbq_grill_area", "outdoor_kitchen", "tennis_court", "basketball_court", "walking_paths", "fountain", "community_garden", "car_wash_station", "bocce_ball_court", "outdoor_fireplace_firepit", "zen_garden"
+    "site_furniture": null, // "none", "commercial_lounge_seating" (wicker, metal), "basic_metal_benches", "picnic_tables", "poolside_lounge_chairs", "hammocks", "umbrellas"
+    "access_control": "gated_community", // "gated_community_with_arm", "keypad_entry_gate", "open_access_to_public", "front_door_doorman", "key_fob_building_entry", "intercom_system", "call_box"
+    "circulation": "landscaped_pathways", // "covered_breezeways", "landscaped_pathways", "internal_sidewalks", "open_air_stairwells", "direct_street_access"
+    "fencing": "wrought_iron_fence", // "wrought_iron_fence", "wood_privacy_fence", "chain_link_fence", "brick_wall", "low_hedges", "none"
+  },
+  "common_area_interiors": {
+    "common_area_type": "lobby", // "lobby", "mailroom", "package_room", "corridor_hallway", "elevator_cab", "elevator_lobby", "laundry_room", "community_lounge", "business_center", "fitness_center_gym", "yoga_studio", "game_room", "package_room", "bike_storage_room", "trash_chute_room",CSS "leasing_office_interior", "sauna", "indoor_pool"
+    "fixtures_and_furniture": "lobby_seating_group", // "lobby_seating_group" (e.g., "sofa_and_chairs"), "reception_desk", "concierge_desk", "wall_of_mailboxes" (e.g., "brass", "stainless_steel"), "luma_or_amazon_package_lockers", "gym_equipment" (e.g., "row_of_treadmills", "peloton_bikes", "free_weights_rack"), "conference_table", "pool_table", "communal_work_table_with_outlets", "community_kitchen_island", "vending_machines", "commercial_laundry_machines" (e.g., "speed_queen"), "key_fob_reader", "fireplace_in_lounge"
+    "decor_style": "corporate_bland", // "corporate_bland" (greige_walls, generic_art), "modern_and_stylish", "dated_1980s" (e.g., "mauve_and_brass"), "dated_1990s" (e.g., "hunter_green_carpet"), "luxury_hotel_vibe", "playful_tech", "sterile_and_functional", "historic_and_ornate", "cozy_and_communal", "mid_century_modern_knockoff"
+    "flooring_material": "commercial_carpet", // "commercial_carpet" (patterned), "carpet_tiles", "terrazzo", "polished_concrete", "luxury_vinyl_tile" (LVT), "ceramic_tile", "linoleum", "marble" (lobby), "vinyl_composition_tile" (VCT)
+    "wall_finish": "paint", // "paint" (e.g., "eggshell"), "wallpaper_accent", "wood_paneling", "mirrored_wall", "exposed_brick", "tile" (e.g., "gym_bathroom"), "scuff_marks_on_wall"
+    "ceiling_type": "drop_ceiling_acoustic", // "drop_ceiling_acoustic", "drywall", "exposed_concrete", "exposed_ductwork", "popcorn_ceiling"
+    "sound_ambience_implied": "pop_music_in_gym", // "echoing_hallway", "pop_music_in_gym", "faint_traffic_noise", "quiet_hvac_hum", "elevator_ding", "sound_of_laundry_machines", "kids_yelling_in_pool"
+    "smell_ambience_implied": "faint_chlorine_from_pool", // "faint_chlorine_from_pool", "fresh_paint", "stale_cooking_odors" (e.g., "curry", "fish"), "commercial_air_freshener" (e.g., "plug_in"), "trash_chute_odor", "laundry_detergent_smell", "old_carpet_smell"
+  },
+  "individual_unit_interiors": {
+    "unit_type": "one_bedroom", // "studio", "alcove_studio", "convertible_one_bedroom", "one_bedroom", "one_bedroom_with_den", "two_bedroom", "three_bedroom_plus", "loft", "penthouse", "garden_level_unit", "townhouse_style_unit" (multi-floor)
+    "layout_concept": "open_concept_living_kitchen", // "open_concept_living_kitchen", "galley_kitchen", "traditional_closed_layout", "loft_open_plan", "split_level", "railroad_style"
+    "finish_level": "standard_grade", // "luxury" (e.g., "stone_counters", "high_end_appliances"), "standard_grade" (e.g., "laminate_counters", "white_appliances"), "builder_grade", "newly_renovated", "dated_unrenovated", "economy" (e.g., "formica", "basic_carpet")
+    "flooring": "laminate_plank", // "laminate_plank_flooring" (LVP), "wall_to_wall_carpet" (e.g., "landlord_beige_carpet"), "original_hardwood", "engineered_hardwood", "polished_concrete", "tile" (kitchen/bath), "vinyl_sheet_goods", "peel_and_stick_tile"
+    "kitchen_style": "l_shape_with_island", // "l_shape_with_island", "one_wall_kitchen" (kitchenette), "galley_kitchen", "u_shape", "peninsula"
+    "kitchen_cabinetry": "white_shaker", // "white_shaker", "flat_panel_laminate", "dark_wood", "natural_wood", "grey_shaker", "dated_oak_cabinets" (1980s-90s), "high_gloss_ikea_style", "thermofoil_white"
+    "countertop_material": "laminate", // "laminate" (e.g., "faux_stone_pattern"), "formica", "granite", "quartz", "corian" (solid_surface), "butcher_block", "stainless_steel", "tile_countertop"
+    "appliance_package": "stainless_steel_samsung", // "mismatched_white", "standard_black", "white_basic", "stainless_steel_samsung" (mid-range), "high_end_sub_zero_wolf" (luxury), "no_appliances_included", "retro_style" (e.g., "smeg")
+    "bathroom_style": "standard_tub_shower_combo", // "standard_tub_shower_combo", "one_piece_fiberglass_insert", "luxury_walk_in_shower" (e.g., "glass_door"), "double_vanity", "pedestal_sink", "basic_vanity_with_cultured_marble_top", "bathtub_with_tile_surround", "dated_tile_with_grimy_grout", "hollywood_vanity_light_bar"
+    "unit_features": "in_unit_laundry", // "in_unit_laundry" (side-by-side), "stackable_laundry_closet", "no_laundry_in_unit", "walk_in_closet", "private_balcony_patio", "fireplace" (gas_or_wood), "floor_to_ceiling_windows", "exposed_brick_wall", "exposed_ductwork", "popcorn_ceiling", "radiator_heat", "wall_ac_unit", "smart_home_features"
+    "furnished_state": "unfurnished_empty", // "unfurnished_empty" (vacant), "staged_for_showing", "furnished_by_resident", "corporate_furnished" (all matching furniture)
+    "unit_condition": "pristine_turnkey" // "pristine_turnkey" (ready_for_move_in), "tenant_occupied_clutter", "move_out_damage" (e.g., "holes_in_wall"), "freshly_painted" (e.g., "paint_splatter_on_trim"), "being_renovated"
+    "natural_light_in_unit": "floor_to_ceiling_windows", // "floor_to_ceiling_windows" (bright), "north_facing_low_light", "lightwell_window" (dim), "single_small_window", "garden_level_window" (e.g., "view_of_feet"), "skylight"
+  },
+  "key_finishes_and_palettes": {
+    "primary_style": "contemporary", // "contemporary", "modern", "traditional", "industrial", "minimalist", "craftsman", "mediterranean", "brutalist", "bohemian", "eclectic"
+    "color_palette_exterior": "monochromatic_grey", // "monochromatic_grey", "earth_tones", "brick_and_ivory", "bold_modern_accents", "suburban_beige", "pastel_colors" (e.g., "art_deco"), "faded_paint"
+    "color_palette_common_area": "neutral_greige", // "neutral_greige", "corporate_blue_and_grey", "warm_wood_tones", "bold_and_playful", "luxury_dark_and_moody", "dated_mauve_and_green"
+    "color_palette_unit_interior": "all_white_minimalist", // "all_white_minimalist", "standard_beige_walls" (landlord_beige), "greige_walls", "accent_wall", "exposed_brick_tone", "unpainted_concrete"
+    "key_materials_general": ["laminate", "vinyl", "carpet", "brick", "concrete", "glass", "quartz", "stainless_steel", "drywall", "acoustic_tile"]
+  },
+  "lighting_and_atmosphere": {
+    "primary_mood": "lively_community", // "lively_community", "quiet_and_private", "exclusive_and_luxury", "sterile_and_functional", "cozy_and_charming", "bustling_urban_life", "student_energy", "dated_and_dim", "bright_and_airy", "anonymous_and_transient", "pride_of_ownership_condo"
+    "lighting_exterior": "pathway_lighting", // "pathway_lighting", "parking_lot_pole_lights", "wall_sconces_on_building", "balcony_lights", "security_floodlights", "landscape_uplighting", "string_lights" (e.g., "courtyard"), "neon_signage" (e.g., "complex_name"), "broken_light_fixture"
+    "lighting_common_area": "bright_fluorescent", // "bright_fluorescent" (e.g., "laundry_room"), "warm_recessed_lighting" (e.g., "lobby"), "decorative_pendants", "sconces" (e.g., "hallway"), "dated_fixtures" (e.g., "brass_and_glass_boob_light"), "cove_lighting"
+    "lighting_unit_interior": "natural_light_from_window", // "natural_light_from_window", "standard_boob_light" (ceiling_flush_mount), "track_lighting", "under_cabinet_lights", "recessed_lighting", "no_overhead_light" (e.g., "living_room"), "dim_and_poor", "bare_bulb_in_closet", "vanity_light_bar", "ceiling_fan_with_light"
+    "time_of_day_effect": "morning_move_in", // "morning_move_in", "evening_residents_returning", "night_quiet", "midday_pool_activity", "late_night_laundry"
+  },
+  "camera_and_composition": {
+    "shot_type": "establishing_shot_of_complex", // "establishing_shot_of_complex", "street_level_facade", "drone_shot_overhead", "wide_shot_of_lobby", "detail_of_amenity" (e.g., "gym_equipment"), "hallway_perspective", "unit_interior_wide_angle", "vignette_of_unit_kitchen", "close_up_on_finish" (e.g., "countertop"), "view_looking_out_of_window"
+    "camera_angle": "eye_level", // "eye_level", "low_angle" (to make building look large), "high_angle" (e.g., "from_one_balcony_to_another"), "bird's_eye_view", "straight_on_architectural"
+    "camera_lens": "wide_angle", // "wide_angle" (e.g., "real_estate_listing", "wide_angle_distorted"), "standard_focal_length" (50mm), "telephoto_compression", "fisheye", "tilt_shift"
+ax "aspect_ratio": "16:9", // "16:9" (widescreen), "4:3", "3:2", "1:1" (square), "9:16" (vertical, e.g., "apartment_tour" story)
+    "image_style": "photorealistic", // "photorealistic", "real_estate_listing_photo" (bright, wide, HDR), "aspirational_lifestyle_ad", "architectural_digest_style", "moody_cinematic", "cgi_render_of_new_development", "dramatic_black_and_white", "zillow_listing_photo"
+  },
+  "activity_and_occupancy": {
+    "level_of_activity": "empty_and_quiet", // "empty_and_quiet", "a_few_residents", "moderate_activity", "bustling_with_people", "crowded" (e.g., "pool_party")
+    "people_present": "none", // "none", "doorman_at_desk", "resident_getting_mail", "people_at_pool", "person_walking_dog", "maintenance_staff_working", "leasing_agent_giving_tour", "family_moving_in", "kids_at_playground", "people_working_out_in_gym", "delivery_driver", "college_students_moving_in"
+    "occupancy_type_implied": "young_professionals", // "young_professionals", "students", "families_with_children", "seniors", "diverse_mix"
+    "evidence_of_life": "bicycles_on_balconies", // "bicycles_on_balconies", "welcome_mats_at_doors", "potted_plants_on_patios", "toys_in_playground", "cars_in_parking_lot", "laundry_in_machines", "name_labels_on_mailboxes", "collection_of_delivery_packages", "stroller_in_hallway", "door_decorations_for_holiday", "abandoned_furniture_by_dumpster", "leak_stain_on_ceiling"
+  }
+}

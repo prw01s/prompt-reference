@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "library",
+    "geographical_setting": "urban",
+    "scene_scale": "room_view",
+    "time_of_day": "night",
+    "time_of_year": "winter",
+    "weather": "rainy",
+    "view_from_window": "rain_streaked_window"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "traditional",
+    "secondary_styles": ["gothic"],
+    "regional_style": null,
+    "era": "1920s",
+    "design_philosophy": "more_is_more",
+    "level_of_formality": "semi_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "moody",
+    "secondary_moods": ["nostalgic", "professional", "cozy", "somber"],
+    "vibe": "dark_academia",
+    "color_palette_type": "earth_tones",
+    "dominant_colors": ["dark_brown", "forest_green", "burgundy"],
+    "accent_colors": ["brass", "black"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "moderate"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "gothic",
+    "floor_plan_layout": "traditional_closed_layout",
+    "ceiling_type": "beamed",
+    "ceiling_height": "10ft",
+    "flooring_material": "hardwood",
+    "flooring_pattern": "herringbone",
+    "wall_finish": "wood_paneling",
+    "windows_type": "arched_windows",
+    "fireplace_style": "ornate_marble",
+    "room_special_features": ["built_in_bookshelves_floor_to_ceiling"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["leather_chesterfield_sofa", "reading_chair", "library_ladder", "pedestal_desk"],
+    "furniture_style": "traditional",
+    "furniture_age_condition": "antique",
+    "furniture_arrangement": "conversational",
+    "sofa_style": "chesterfield"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "heavy_drapes",
+    "primary_materials": ["dark_wood", "leather", "wool", "brass", "velvet"],
+    "decor_items": ["books", "globes", "skulls", "framed_maps", "bust_sculptures", "hourglass"],
+    "wall_decor": "gallery_wall",
+    "textiles": ["persian_rug", "wool_throw_blanket", "tweed_pillows"],
+    "rug_style": "persian_rug",
+    "plants": "none",
+    "lighting_fixtures_style": "green_bankers_lamp"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "none",
+    "natural_light_quality": "none",
+    "artificial_light_sources": ["green_bankers_lamp", "fireplace", "picture_lights", "table_lamps"],
+    "artificial_light_type": "task",
+    "artificial_light_temperature": "very_warm",
+    "artificial_light_intensity": "dim",
+    "shadow_quality": "deep_dramatic_shadows",
+    "reflections": "subtle_sheen_on_leather"
+  },
+  "camera_and_composition": {
+    "shot_type": "medium_shot",
+    "camera_angle": "low_angle",
+    "camera_height": "table_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "4:3"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "shallow",
+    "image_style": "cinematic",
+    "film_stock_style": "ilford_hp5",
+    "saturation": "desaturated",
+    "contrast": "high_contrast",
+    "vignetting": "moderate"
+  },
+  "context_and_story": {
+    "level_of_clutter": "cozy_clutter",
+    "age_of_space": "historic",
+    "evidence_of_life": "open_book",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

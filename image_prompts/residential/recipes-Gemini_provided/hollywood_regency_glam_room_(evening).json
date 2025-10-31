@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "urban",
+    "scene_scale": "room_view",
+    "time_of_day": "night",
+    "time_of_year": "winter",
+    "weather": "clear",
+    "view_from_window": "cityscape_at_night"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "hollywood_regency",
+    "secondary_styles": ["art_deco", "maximalist"],
+    "regional_style": null,
+    "era": "1930s",
+    "design_philosophy": "more_is_more",
+    "level_of_formality": "highly_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "dramatic",
+    "secondary_moods": ["luxurious", "opulent", "playful"],
+    "vibe": "a_movie_stars_lounge",
+    "color_palette_type": "high_contrast",
+    "dominant_colors": ["white", "black"],
+    "accent_colors": ["fuchsia", "gold", "emerald_green"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "art_deco",
+    "floor_plan_layout": "traditional_closed_layout",
+    "ceiling_type": "flat",
+    "ceiling_height": "10ft",
+    "flooring_material": "marble",
+    "flooring_pattern": "checkerboard_tile",
+    "wall_finish": "lacquer",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "ornate_marble",
+    "trim_molding_style": "ornate_crown_molding"
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["tufted_velvet_sofa", "mirrored_coffee_table", "lacquered_cabinets", "bar_cart"],
+    "furniture_style": "hollywood_regency",
+    "furniture_age_condition": "new",
+    "furniture_arrangement": "symmetrical",
+    "sofa_style": "tuxedo"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "heavy_drapes",
+    "primary_materials": ["velvet", "lacquer", "mirror", "brass", "faux_fur", "crystal"],
+    "decor_items": ["crystal_decanters", "ornate_mirrors", "sculptures", "feathers"],
+    "wall_decor": "ornate_gilded_mirror",
+    "textiles": ["faux_fur_rug", "silk_pillows", "animal_print_throw"],
+    "rug_style": "faux_fur_rug",
+    "plants": "large_potted_palm",
+    "lighting_fixtures_style": "crystal_chandelier"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "none",
+    "natural_light_quality": "none",
+    "artificial_light_sources": ["crystal_chandelier", "sconces", "dramatic_table_lamps"],
+    "artificial_light_type": "layered",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "dramatic_spotlighting",
+    "reflections": "prominent"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "deep",
+    "image_style": "cinematic",
+    "film_stock_style": "technicolor",
+    "saturation": "high_saturation",
+    "contrast": "high_contrast"
+  },
+  "context_and_story": {
+    "level_of_clutter": "organized_clutter",
+    "age_of_space": "newly_renovated",
+    "evidence_of_life": "cocktail_glass_on_table",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

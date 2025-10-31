@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "urban",
+    "scene_scale": "room_view",
+    "time_of_day": "midday",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "lush_garden"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "bohemian",
+    "secondary_styles": ["eclectic"],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "biophilic_design",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "energetic",
+    "secondary_moods": ["lush", "inviting", "playful"],
+    "vibe": "a_jungle_inside_a_house",
+    "color_palette_type": "analogous",
+    "dominant_colors": ["green", "brown"],
+    "accent_colors": ["terracotta", "white"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "contemporary",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "hardwood",
+    "wall_finish": "white_paint",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "none",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["green_velvet_sofa", "rattan_shelving", "peacock_chair"],
+    "furniture_style": "bohemian",
+    "furniture_age_condition": "lived_in",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "tuxedo"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["rattan", "velvet", "terracotta", "wood", "linen", "macrame"],
+    "decor_items": ["at_least_20_potted_plants_of_varying_sizes", "macrame_wall_hanging", "botanical_prints"],
+    "wall_decor": "gallery_wall",
+    "textiles": ["patterned_rug", "mismatched_pillows"],
+    "rug_style": "moroccan_rug",
+    "plants": "several_potted_plants",
+    "lighting_fixtures_style": "rattan_pendant_light"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "large_picture_windows",
+    "natural_light_quality": "dappled",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["rattan_pendant_light"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "dappled_light",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "1:1"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "magazine_quality",
+    "film_stock_style": null,
+    "saturation": "high_saturation",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "organized_clutter",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "watering_can",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

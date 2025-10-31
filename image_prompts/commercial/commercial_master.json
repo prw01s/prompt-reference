@@ -1,0 +1,95 @@
+{
+  "scene_and_location": {
+    "location_type": null,
+    "business_type": null,
+    "specific_business_type": null,
+    "geographical_setting": null,
+    "time_of_day": null,
+    "time_of_year": null,
+    "weather": null,
+    "weather_effect_on_scene": null
+  },
+  "business_identity_and_branding": {
+    "brand_tier": null,
+    "brand_style": null,
+    "brand_colors_dominant": [],
+    "brand_colors_accent": [],
+    "logo_presence": null,
+    "promotional_materials": null
+  },
+  "style_and_aesthetics": {
+    "primary_style": null,
+    "themed_style": null,
+    "secondary_styles": [],
+    "era_influence": null,
+    "design_philosophy": null,
+    "design_focus": null,
+    "level_of_formality": null
+  },
+  "mood_and_atmosphere": {
+    "primary_mood": null,
+    "vibe": null,
+    "maintenance_level": null,
+    "sound_ambience_implied": null
+  },
+  "commercial_architecture_and_structure": {
+    "exterior_facade": null,
+    "storefront_type": null,
+    "scale": null,
+    "layout": null,
+    "key_structural_elements": null,
+    "ceiling_type": null,
+    "flooring_material": null,
+    "accessibility_features": null,
+    "special_zones": [],
+    "exterior_amenities": []
+  },
+  "commercial_fixtures_and_furnishings": {
+    "retail_fixtures": [],
+    "restaurant_fixtures": [],
+    "hospitality_fixtures": [],
+    "office_fixtures": [],
+    "furniture_style": null,
+    "seating_type": null
+  },
+  "signage_decor_and_merchandising": {
+    "product_type_visible": null,
+    "merchandising_style": null,
+    "merchandising_density": null,
+    "exterior_signage": null,
+    "interior_signage": null,
+    "decor_items": null,
+    "wall_decor": null,
+    "window_display": null,
+    "plants": null
+  },
+  "lighting_and_effects": {
+    "lighting_strategy": null,
+    "natural_light_source": null,
+    "artificial_light_sources": null,
+    "lighting_fixture_style": null,
+    "artificial_light_temperature": null,
+    "light_effect": null,
+    "shadow_quality": null
+  },
+  "camera_and_composition": {
+    "shot_type": null,
+    "camera_angle": null,
+    "camera_height": null,
+    "perspective": null,
+    "focal_length": null,
+    "depth_of_field": null,
+    "aspect_ratio": null,
+    "image_style": null,
+    "color_grading_style": null
+  },
+  "activity_and_occupancy": {
+    "customer_density": null,
+    "customer_activity": null,
+    "customer_demographic_implied": null,
+    "staff_presence": null,
+    "staff_attire": null,
+    "level_of_activity": null,
+    "evidence_of_use": null
+  }
+}

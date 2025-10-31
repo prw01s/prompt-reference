@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "rural",
+    "scene_scale": "room_view",
+    "time_of_day": "night",
+    "time_of_year": "winter",
+    "weather": "stormy",
+    "view_from_window": "dark_stormy_window"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "gothic",
+    "secondary_styles": ["victorian"],
+    "regional_style": null,
+    "era": "victorian_era",
+    "design_philosophy": "more_is_more",
+    "level_of_formality": "highly_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "dramatic",
+    "secondary_moods": ["somber", "moody", "opulent"],
+    "vibe": "a_haunted_mansion",
+    "color_palette_type": "jewel_tones",
+    "dominant_colors": ["black", "dark_purple", "blood_red"],
+    "accent_colors": ["gold", "dark_wood"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "gothic",
+    "floor_plan_layout": "traditional_closed_layout",
+    "ceiling_type": "vaulted",
+    "ceiling_height": "double_height",
+    "flooring_material": "dark_hardwood",
+    "wall_finish": "wood_paneling",
+    "windows_type": "arched_windows",
+    "fireplace_style": "ornate_marble",
+    "trim_molding_style": "ornate_crown_molding"
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["ornately_carved_wood_furniture", "velvet_settee", "chaise_lounge"],
+    "furniture_style": "victorian",
+    "furniture_age_condition": "antique",
+    "furniture_arrangement": "symmetrical",
+    "sofa_style": "chesterfield"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "heavy_drapes",
+    "primary_materials": ["dark_wood", "velvet", "wrought_iron", "silk", "brass"],
+    "decor_items": ["candelabra", "oil_portraits", "taxidermy", "skulls", "antique_books"],
+    "wall_decor": "tapestry",
+    "textiles": ["persian_rug", "velvet_drapes", "silk_pillows"],
+    "rug_style": "persian_rug",
+    "plants": "none",
+    "lighting_fixtures_style": "ornate_chandelier"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "none",
+    "natural_light_quality": "none",
+    "artificial_light_sources": ["fireplace", "candelabra", "ornate_chandelier"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "very_warm",
+    "artificial_light_intensity": "dim",
+    "shadow_quality": "deep_dramatic_shadows",
+    "reflections": "subtle_sheen"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "low_angle",
+    "camera_height": "table_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "cinematic",
+    "film_stock_style": null,
+    "saturation": "desaturated",
+    "contrast": "high_contrast",
+    "vignetting": "heavy_dramatic"
+  },
+  "context_and_story": {
+    "level_of_clutter": "organized_clutter",
+    "age_of_space": "historic",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "urban",
+    "scene_scale": "room_view",
+    "time_of_day": "night",
+    "time_of_year": "contemporary",
+    "weather": "clear",
+    "view_from_window": "cityscape_at_night"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "modern",
+    "secondary_styles": ["retro"],
+    "regional_style": null,
+    "era": "1960s",
+    "design_philosophy": "form_follows_function",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "playful",
+    "secondary_moods": ["nostalgic", "energetic"],
+    "vibe": "retro_futurist",
+    "color_palette_type": "bold_and_vibrant",
+    "dominant_colors": ["white", "orange"],
+    "accent_colors": ["chrome", "brown"],
+    "color_temperature_bias": "cool",
+    "pattern_use": "moderate"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "modern",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "shag_carpet",
+    "wall_finish": "paint",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "none",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["ball_chair", "panton_s_chair", "plastic_modular_sofa", "bubble_chair"],
+    "furniture_style": "mid_century_modern",
+    "furniture_age_condition": "vintage",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "sectional"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["plastic", "acrylic", "chrome", "vinyl", "fiberglass"],
+    "decor_items": ["lava_lamp", "peter_max_posters", "sunburst_mirror"],
+    "wall_decor": "gallery_wall",
+    "textiles": ["shag_rug", "geometric_print_pillows"],
+    "rug_style": "shag_rug",
+    "plants": "none",
+    "lighting_fixtures_style": "globe_pendant_lights"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "none",
+    "natural_light_quality": "none",
+    "artificial_light_sources": ["globe_pendant_lights", "lava_lamp", "floor_lamps"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "cool",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "soft_with_defined_edges",
+    "reflections": "prominent_on_plastic"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "low_angle",
+    "camera_height": "table_height",
+    "shot_framing": "centered",
+    "perspective": "two_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": "polaroid",
+    "saturation": "high_saturation",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "minimal",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

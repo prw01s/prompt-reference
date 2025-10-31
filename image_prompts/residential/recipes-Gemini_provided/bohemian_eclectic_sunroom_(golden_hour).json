@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "sunroom",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "golden_hour_evening",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "lush_garden"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "bohemian",
+    "secondary_styles": ["eclectic"],
+    "regional_style": "moroccan",
+    "era": "contemporary",
+    "design_philosophy": "more_is_more",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "warm",
+    "secondary_moods": ["inviting", "relaxed", "playful"],
+    "vibe": "a_creative_getaway",
+    "color_palette_type": "bold_and_vibrant",
+    "dominant_colors": ["terracotta", "green", "mustard_yellow"],
+    "accent_colors": ["fuchsia", "turquoise"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "contemporary",
+    "floor_plan_layout": "traditional_closed_layout",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "terracotta_tile",
+    "wall_finish": "paint",
+    "windows_type": "floor_to_ceiling_windows",
+    "fireplace_style": "none",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["rattan_daybed", "peacock_chair", "vintage_wooden_trunk"],
+    "furniture_style": "eclectic",
+    "furniture_age_condition": "vintage",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "chaise_lounge"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["rattan", "wicker", "linen", "velvet", "macrame", "wood"],
+    "decor_items": ["many_hanging_plants", "macrame_wall_hanging", "floor_pillows", "baskets"],
+    "wall_decor": "macrame_wall_hanging",
+    "textiles": ["colorful_moroccan_rug", "mismatched_throw_pillows"],
+    "rug_style": "moroccan_rug",
+    "plants": "several_potted_plants",
+    "lighting_fixtures_style": "string_lights"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "floor_to_ceiling_windows",
+    "natural_light_quality": "streaming_rays",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["string_lights", "table_lamp"],
+    "artificial_light_type": "decorative",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "dim",
+    "shadow_quality": "long_shadows",
+    "reflections": "subtle_sheen"
+  },
+  "camera_and_composition": {
+    "shot_type": "medium_shot",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "1:1"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "shallow",
+    "image_style": "photorealistic",
+    "film_stock_style": "kodak_portra_400",
+    "saturation": "high_saturation",
+    "contrast": "medium",
+    "light_effect": "lens_flare"
+  },
+  "context_and_story": {
+    "level_of_clutter": "cozy_clutter",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "open_book",
+    "people_present": "none",
+    "pets_present": "one_cat"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "urban",
+    "scene_scale": "room_view",
+    "time_of_day": "midday",
+    "time_of_year": "autumn",
+    "weather": "clear",
+    "view_from_window": "cityscape"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "eclectic",
+    "secondary_styles": ["industrial", "modern", "mid_century_modern"],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "more_is_more",
+    "level_of_formality": "semi_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "energetic",
+    "secondary_moods": ["sophisticated", "creative", "playful"],
+    "vibe": "an_artists_gallery_home",
+    "color_palette_type": "bold_and_vibrant",
+    "dominant_colors": ["white", "black"],
+    "accent_colors": ["primary_red", "royal_blue", "yellow"],
+    "color_temperature_bias": "neutral",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "industrial",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "exposed_ductwork",
+    "ceiling_height": "double_height",
+    "flooring_material": "polished_concrete",
+    "wall_finish": "exposed_brick",
+    "windows_type": "warehouse_style_grid_windows",
+    "fireplace_style": "none",
+    "room_special_features": ["loft_space"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["designer_sofa", "mix_of_antique_and_modern_chairs", "eames_lounge_chair", "vintage_persian_rug"],
+    "furniture_style": "eclectic",
+    "furniture_age_condition": "mixed",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "sectional"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["concrete", "brick", "leather", "velvet", "wood", "metal"],
+    "decor_items": ["sculptures", "large_scale_art", "art_books", "designer_toys", "pottery_collection"],
+    "wall_decor": "gallery_wall_floor_to_ceiling",
+    "textiles": ["persian_rug", "mismatched_designer_pillows"],
+    "rug_style": "persian_rug",
+    "plants": "several_potted_plants",
+    "lighting_fixtures_style": "track_lighting"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "warehouse_style_grid_windows",
+    "natural_light_quality": "hard_direct_sunlight",
+    "natural_light_intensity": "intense",
+    "artificial_light_sources": ["track_lighting"],
+    "artificial_light_type": "accent",
+    "artificial_light_temperature": "neutral",
+    "artificial_light_intensity": "bright_task",
+    "shadow_quality": "hard_and_crisp",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "rule_of_thirds",
+    "perspective": "two_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "magazine_quality",
+    "film_stock_style": null,
+    "saturation": "high_saturation",
+    "contrast": "high_contrast"
+  },
+  "context_and_story": {
+    "level_of_clutter": "organized_clutter",
+    "age_of_space": "gently_aged",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

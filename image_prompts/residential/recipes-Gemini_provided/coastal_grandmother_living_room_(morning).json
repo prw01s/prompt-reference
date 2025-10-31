@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "coastal",
+    "scene_scale": "room_view",
+    "time_of_day": "morning",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "ocean_view"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "coastal",
+    "secondary_styles": ["traditional"],
+    "regional_style": "new_england",
+    "era": "contemporary",
+    "design_philosophy": "hygge",
+    "level_of_formality": "semi_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "airy",
+    "secondary_moods": ["relaxed", "elegant", "inviting", "bright"],
+    "vibe": "a_Nancy_Meyers_movie_set",
+    "color_palette_type": "neutral_tones",
+    "dominant_colors": ["white", "beige", "light_blue"],
+    "accent_colors": ["navy_blue", "natural_wood"],
+    "color_temperature_bias": "neutral",
+    "pattern_use": "moderate"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "cape_cod",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "light_hardwood",
+    "wall_finish": "white_paint",
+    "windows_type": "french_doors",
+    "fireplace_style": "traditional_masonry",
+    "room_special_features": ["built_in_bookshelves"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["white_slipcovered_sofa", "rattan_chairs", "gingham_armchair", "wooden_coffee_table"],
+    "furniture_style": "coastal",
+    "furniture_age_condition": "well_maintained",
+    "furniture_arrangement": "conversational",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "sheer_curtains",
+    "primary_materials": ["linen", "rattan", "light_wood", "cotton", "ceramic"],
+    "decor_items": ["blue_and_white_porcelain", "fresh_hydrangeas", "bowl_of_lemons", "stack_of_books", "ginger_jars"],
+    "wall_decor": "mirrors",
+    "textiles": ["striped_rug", "linen_throw_pillows", "cashmere_throw_blanket"],
+    "rug_style": "jute_rug",
+    "plants": "fresh_flowers",
+    "lighting_fixtures_style": "table_lamps"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "french_doors",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["table_lamps"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "soft_diffused",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "magazine_quality",
+    "film_stock_style": null,
+    "saturation": "natural",
+    "contrast": "low_contrast",
+    "light_effect": "light_bloom"
+  },
+  "context_and_story": {
+    "level_of_clutter": "lived_in",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "open_book",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

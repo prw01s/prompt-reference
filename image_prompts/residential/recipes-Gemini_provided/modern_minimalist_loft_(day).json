@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "urban",
+    "scene_scale": "room_view",
+    "time_of_day": "midday",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "cityscape"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "minimalist",
+    "secondary_styles": ["industrial"],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "less_is_more",
+    "level_of_formality": "semi_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "airy",
+    "secondary_moods": ["serene", "calm", "minimal"],
+    "vibe": "a_quiet_artists_loft",
+    "color_palette_type": "monochromatic",
+    "dominant_colors": ["white", "light_grey"],
+    "accent_colors": ["black"],
+    "color_temperature_bias": "cool",
+    "pattern_use": "none"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "industrial",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "exposed_ductwork",
+    "ceiling_height": "double_height",
+    "flooring_material": "polished_concrete",
+    "wall_finish": "white_paint",
+    "windows_type": "floor_to_ceiling_windows",
+    "fireplace_style": "none",
+    "room_special_features": ["loft_space"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["low_profile_sofa", "concrete_coffee_table"],
+    "furniture_style": "minimalist",
+    "furniture_age_condition": "new",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "sectional"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["concrete", "glass", "metal", "linen"],
+    "decor_items": ["one_large_abstract_painting", "a_few_books"],
+    "wall_decor": "large_scale_art",
+    "textiles": ["linen_throw_pillows"],
+    "rug_style": "none",
+    "plants": "none",
+    "lighting_fixtures_style": "track_lighting"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "floor_to_ceiling_windows",
+    "natural_light_quality": "hard_direct_sunlight",
+    "natural_light_intensity": "intense",
+    "artificial_light_sources": ["track_lighting"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "neutral",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "hard_and_crisp",
+    "reflections": "prominent_on_glass"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "rule_of_thirds",
+    "perspective": "two_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": null,
+    "saturation": "low_saturation",
+    "contrast": "high_contrast"
+  },
+  "context_and_story": {
+    "level_of_clutter": "pristine",
+    "age_of_space": "newly_renovated",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

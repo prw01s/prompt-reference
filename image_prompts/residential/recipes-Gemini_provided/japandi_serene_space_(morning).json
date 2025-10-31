@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "morning",
+    "time_of_year": "spring",
+    "weather": "clear",
+    "view_from_window": "zen_garden"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "japandi",
+    "secondary_styles": ["minimalist", "scandinavian"],
+    "regional_style": "japanese",
+    "era": "contemporary",
+    "design_philosophy": "less_is_more",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "serene",
+    "secondary_moods": ["calm", "minimal", "warm"],
+    "vibe": "a_meditation_space",
+    "color_palette_type": "neutral_tones",
+    "dominant_colors": ["beige", "light_grey", "greige"],
+    "accent_colors": ["black", "natural_wood"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "none"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "modern",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "light_hardwood",
+    "wall_finish": "plaster",
+    "windows_type": "sliding_glass_door",
+    "fireplace_style": "none",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["low_profile_sofa", "simple_wood_bench", "low_coffee_table"],
+    "furniture_style": "japandi",
+    "furniture_age_condition": "new",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "sheer_curtains",
+    "primary_materials": ["light_oak", "dark_wood", "linen", "ceramic", "rice_paper", "rattan"],
+    "decor_items": ["single_ikebana_flower_arrangement", "handcrafted_pottery", "stack_of_books"],
+    "wall_decor": "none",
+    "textiles": ["linen_throw_pillows", "simple_jute_rug"],
+    "rug_style": "jute_rug",
+    "plants": "single_statement_tree",
+    "lighting_fixtures_style": "rice_paper_pendant"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "sliding_glass_door",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["rice_paper_pendant"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "soft_diffused",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "low_angle",
+    "camera_height": "table_height",
+    "shot_framing": "rule_of_thirds",
+    "perspective": "two_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "magazine_quality",
+    "film_stock_style": null,
+    "saturation": "low_saturation",
+    "contrast": "low_contrast"
+  },
+  "context_and_story": {
+    "level_of_clutter": "pristine",
+    "age_of_space": "newly_renovated",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "midday",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "manicured_lawn"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "contemporary",
+    "secondary_styles": ["minimalist"],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "less_is_more",
+    "level_of_formality": "formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "minimal",
+    "secondary_moods": ["elegant", "calm", "sterile"],
+    "vibe": "a_brand_new_show_home",
+    "color_palette_type": "neutral_tones",
+    "dominant_colors": ["greige", "white"],
+    "accent_colors": ["chrome", "black"],
+    "color_temperature_bias": "cool",
+    "pattern_use": "none"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "contemporary",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "10ft",
+    "flooring_material": "large_format_tile",
+    "wall_finish": "paint",
+    "windows_type": "floor_to_ceiling_windows",
+    "fireplace_style": "modern_linear",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["structured_sofa", "glass_coffee_table", "leather_armchair"],
+    "furniture_style": "contemporary",
+    "furniture_age_condition": "brand_new",
+    "furniture_arrangement": "symmetrical",
+    "sofa_style": "tuxedo"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "sheer_curtains",
+    "primary_materials": ["glass", "chrome", "leather", "lacquer", "porcelain"],
+    "decor_items": ["one_large_sculpture", "a_few_art_books_stacked_perfectly"],
+    "wall_decor": "large_scale_art",
+    "textiles": ["solid_color_rug", "leather_pillows"],
+    "rug_style": "solid_color_low_pile",
+    "plants": "none",
+    "lighting_fixtures_style": "recessed_lighting"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "floor_to_ceiling_windows",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["recessed_lighting", "cove_lighting"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "neutral",
+    "artificial_light_intensity": "bright",
+    "shadow_quality": "soft_diffused",
+    "reflections": "prominent_on_glass"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "real_estate_listing_photo",
+    "film_stock_style": null,
+    "saturation": "natural",
+    "contrast": "medium",
+    "color_grading_style": "cool_modern"
+  },
+  "context_and_story": {
+    "level_of_clutter": "pristine",
+    "age_of_space": "brand_new_construction",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "desert",
+    "scene_scale": "room_view",
+    "time_of_day": "sunset",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "desert_landscape"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "mediterranean",
+    "secondary_styles": ["rustic"],
+    "regional_style": "southwestern",
+    "era": "contemporary",
+    "design_philosophy": "biophilic_design",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "warm",
+    "secondary_moods": ["inviting", "rustic"],
+    "vibe": "an_adobe_home_in_santa_fe",
+    "color_palette_type": "earth_tones",
+    "dominant_colors": ["terracotta", "sand", "brown"],
+    "accent_colors": ["turquoise", "chili_red"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "mediterranean",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "beamed_vigas",
+    "ceiling_height": "10ft",
+    "flooring_material": "terracotta_tile",
+    "wall_finish": "plaster",
+    "windows_type": "small_windows",
+    "fireplace_style": "kiva_fireplace",
+    "room_special_features": ["arched_doorway"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["leather_sofa", "carved_wood_furniture", "wooden_bench"],
+    "furniture_style": "rustic",
+    "furniture_age_condition": "antique",
+    "furniture_arrangement": "conversational",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["terracotta_tile", "leather", "heavy_wood", "plaster", "wrought_iron"],
+    "decor_items": ["cow_skull", "handcrafted_pottery", "woven_baskets"],
+    "wall_decor": "tapestry",
+    "textiles": ["navajo_rug", "woven_pillows"],
+    "rug_style": "southwestern_pattern",
+    "plants": "succulents",
+    "lighting_fixtures_style": "wrought_iron_chandelier"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "small_windows",
+    "natural_light_quality": "streaming_rays",
+    "natural_light_intensity": "moderate",
+    "artificial_light_sources": ["chandelier", "table_lamps", "fireplace"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "very_warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "long_shadows",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": "kodak_portra_400",
+    "saturation": "high_saturation",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "lived_in",
+    "age_of_space": "gently_aged",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

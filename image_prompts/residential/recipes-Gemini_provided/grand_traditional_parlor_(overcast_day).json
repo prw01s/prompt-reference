@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "overcast_day",
+    "time_of_year": "autumn",
+    "weather": "overcast",
+    "view_from_window": "manicured_lawn"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "traditional",
+    "secondary_styles": ["victorian"],
+    "regional_style": null,
+    "era": "1920s",
+    "design_philosophy": "more_is_more",
+    "level_of_formality": "highly_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "formal",
+    "secondary_moods": ["elegant", "opulent", "somber"],
+    "vibe": "a_wealthy_estate_parlor",
+    "color_palette_type": "analogous",
+    "dominant_colors": ["burgundy", "dark_wood", "forest_green"],
+    "accent_colors": ["gold"],
+    "color_temperature_bias": "neutral",
+    "pattern_use": "heavy"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "victorian",
+    "floor_plan_layout": "traditional_closed_layout",
+    "ceiling_type": "coffered",
+    "ceiling_height": "10ft",
+    "flooring_material": "hardwood",
+    "flooring_pattern": "parquet",
+    "wall_finish": "wainscoting_and_wallpaper",
+    "windows_type": "sash_windows",
+    "fireplace_style": "ornate_marble",
+    "trim_molding_style": "ornate_crown_molding"
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["chesterfield_sofa", "wingback_chairs", "china_cabinet", "grandfather_clock"],
+    "furniture_style": "traditional",
+    "furniture_age_condition": "antique",
+    "furniture_arrangement": "symmetrical",
+    "sofa_style": "chesterfield"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "heavy_drapes",
+    "primary_materials": ["mahogany", "velvet", "silk", "crystal", "brass", "damask"],
+    "decor_items": ["oil_portraits", "porcelain_vases", "antique_books", "candelabra"],
+    "wall_decor": "gallery_wall",
+    "textiles": ["heavy_drapes", "persian_rug", "silk_throw_pillows"],
+    "rug_style": "persian_rug",
+    "plants": "none",
+    "lighting_fixtures_style": "crystal_chandelier"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "sash_windows",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "dim",
+    "artificial_light_sources": ["chandelier", "sconces", "table_lamps"],
+    "artificial_light_type": "layered",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "dim",
+    "shadow_quality": "soft_diffused",
+    "reflections": "subtle_sheen_on_wood"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "4:3"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": null,
+    "saturation": "natural",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "pristine",
+    "age_of_space": "historic",
+    "evidence_of_life": "none",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

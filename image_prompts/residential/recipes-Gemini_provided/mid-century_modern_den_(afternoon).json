@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "den",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "afternoon",
+    "time_of_year": "autumn",
+    "weather": "clear",
+    "view_from_window": "suburban_street"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "mid_century_modern",
+    "secondary_styles": [],
+    "regional_style": null,
+    "era": "1960s",
+    "design_philosophy": "form_follows_function",
+    "level_of_formality": "semi_formal"
+  },
+  "mood_and_color": {
+    "primary_mood": "nostalgic",
+    "secondary_moods": ["professional", "warm", "inviting"],
+    "vibe": "an_advertising_execs_home_office",
+    "color_palette_type": "complementary",
+    "dominant_colors": ["walnut_brown", "avocado_green"],
+    "accent_colors": ["orange", "brass"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "minimal"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "ranch",
+    "floor_plan_layout": "traditional_closed_layout",
+    "ceiling_type": "flat",
+    "ceiling_height": "8ft",
+    "flooring_material": "hardwood",
+    "wall_finish": "wood_paneling",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "modern_linear",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["eames_lounge_chair", "tapered_leg_sofa", "credenza", "bar_cart"],
+    "furniture_style": "mid_century_modern",
+    "furniture_age_condition": "vintage",
+    "furniture_arrangement": "conversational",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "curtains",
+    "primary_materials": ["walnut_wood", "leather", "tweed", "brass", "glass"],
+    "decor_items": ["abstract_art", "vintage_record_player", "ashtray", "whiskey_decanter"],
+    "wall_decor": "sunburst_clock",
+    "textiles": ["shag_rug", "geometric_print_pillows"],
+    "rug_style": "shag_rug",
+    "plants": "single_statement_tree",
+    "lighting_fixtures_style": "modern_sputnik"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "large_picture_windows",
+    "natural_light_quality": "streaming_rays",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["table_lamp", "floor_lamp"],
+    "artificial_light_type": "task",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "long_shadows",
+    "reflections": "subtle_sheen_on_wood"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "rule_of_thirds",
+    "perspective": "two_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "standard",
+    "depth_of_field": "deep",
+    "image_style": "shot_on_film",
+    "film_stock_style": "kodak_portra_400",
+    "saturation": "natural",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "lived_in",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "drink_on_bar_cart",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

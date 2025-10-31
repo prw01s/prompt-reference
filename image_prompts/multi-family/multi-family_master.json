@@ -1,0 +1,95 @@
+{
+  "scene_and_location": {
+    "location_scope": null,
+    "building_type": null,
+    "specific_location": null,
+    "scene_focus": null,
+    "geographical_setting": null,
+    "building_scale": null,
+    "time_of_day": null,
+    "time_of_year": null,
+    "weather": null,
+    "weather_effect_on_scene": null
+  },
+  "complex_identity_and_tier": {
+    "property_tier": null,
+    "target_demographic": null,
+    "branding_style": null,
+    "signage_presence": null,
+    "promotional_signage": null,
+    "maintenance_level": null,
+    "age_of_property": null
+  },
+  "building_exterior_and_architecture": {
+    "architecture_style": null,
+    "building_form": null,
+    "building_materials": null,
+    "window_style": null,
+    "unit_relationship": null,
+    "unit_access": null,
+    "facade_features": null,
+    "roof_style": null
+  },
+  "site_landscaping_and_amenities": {
+    "layout_of_complex": null,
+    "parking_type": null,
+    "landscaping_style": null,
+    "exterior_amenities": null,
+    "site_furniture": null,
+    "access_control": null,
+    "circulation": null,
+    "fencing": null
+  },
+  "common_area_interiors": {
+    "common_area_type": null,
+    "fixtures_and_furniture": null,
+    "decor_style": null,
+    "flooring_material": null,
+    "wall_finish": null,
+    "ceiling_type": null,
+    "sound_ambience_implied": null,
+    "smell_ambience_implied": null
+  },
+  "individual_unit_interiors": {
+    "unit_type": null,
+    "layout_concept": null,
+    "finish_level": null,
+    "flooring": null,
+    "kitchen_style": null,
+    "kitchen_cabinetry": null,
+    "countertop_material": null,
+    "appliance_package": null,
+    "bathroom_style": null,
+    "unit_features": null,
+    "furnished_state": null,
+    "unit_condition": null,
+    "natural_light_in_unit": null
+  },
+  "key_finishes_and_palettes": {
+    "primary_style": null,
+    "color_palette_exterior": null,
+    "color_palette_common_area": null,
+    "color_palette_unit_interior": null,
+    "key_materials_general": []
+  },
+  "lighting_and_atmosphere": {
+    "primary_mood": null,
+    "lighting_exterior": null,
+    "lighting_common_area": null,
+    "lighting_unit_interior": null,
+    "time_of_day_effect": null
+  },
+  "camera_and_composition": {
+    "shot_type": null,
+    "camera_angle": null,
+    "camera_lens": null,
+    "aspect_ratio": null,
+    "image_style": null
+  },
+  "activity_and_occupancy": {
+    "level_of_activity": null,
+    "people_present": null,
+    "occupancy_type_implied": null,
+    "evidence_of_life": null
+  }
+}

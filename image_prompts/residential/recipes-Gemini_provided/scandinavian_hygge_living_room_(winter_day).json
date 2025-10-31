@@ -1,0 +1,93 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "midday",
+    "time_of_year": "winter",
+    "weather": "snowing",
+    "view_from_window": "snow_covered_garden"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "scandinavian",
+    "secondary_styles": [],
+    "regional_style": "scandinavian",
+    "era": "contemporary",
+    "design_philosophy": "hygge",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "cozy",
+    "secondary_moods": ["minimal", "warm", "serene", "bright"],
+    "vibe": "a_calm_winter_afternoon",
+    "color_palette_type": "neutral_tones",
+    "dominant_colors": ["white", "light_grey", "pale_blue"],
+    "accent_colors": ["natural_wood", "black"],
+    "color_temperature_bias": "neutral",
+    "pattern_use": "minimal"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "modern",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "light_hardwood",
+    "flooring_pattern": "plank",
+    "wall_finish": "white_paint",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "modern_linear",
+    "room_special_features": []
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["simple_grey_sofa", "light_wood_coffee_table", "wishbone_chair"],
+    "furniture_style": "scandinavian",
+    "furniture_age_condition": "new",
+    "furniture_arrangement": "asymmetrical",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["light_wood", "wool", "linen", "ceramic"],
+    "decor_items": ["simple_ceramic_vases", "stack_of_books", "candles"],
+    "wall_decor": "simple_graphic_prints",
+    "textiles": ["chunky_knit_blanket", "sheepskin_rug", "linen_pillows"],
+    "rug_style": "jute_rug",
+    "plants": "several_potted_plants",
+    "lighting_fixtures_style": "simple_pendant_light"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "large_picture_windows",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["floor_lamp", "pendant_light", "fireplace"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "moderate",
+    "shadow_quality": "soft_diffused",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "3:2"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "magazine_quality",
+    "film_stock_style": null,
+    "saturation": "low_saturation",
+    "contrast": "low_contrast"
+  },
+  "context_and_story": {
+    "level_of_clutter": "minimal",
+    "age_of_space": "newly_renovated",
+    "evidence_of_life": "steaming_cup_of_coffee",
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

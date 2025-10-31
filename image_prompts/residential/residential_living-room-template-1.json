@@ -1,0 +1,53 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "scene_scale": "furniture_vignette",
+    "time_of_day": "midday"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "mid_century_modern", // "minimalist", "modern", "contemporary", "industrial", "scandinavian", "bohemian" (boho), "mid_century_modern", "traditional", "farmhouse", "rustic", "coastal", "art_deco", "maximalist", "japandi", "wabi_sabi", "victorian", "mediterranean", "craftsman", "gothic", "hollywood_regency", "shabby_chic", "eclectic", "brutalist", "biophilic"
+    "secondary_styles": [] // ["industrial", "boho"] - An array for blending styles
+  },
+  "mood_and_color": {
+    "primary_mood": "serene", // "cozy", "warm", "inviting", "bright", "airy", "spacious", "minimal", "moody", "dramatic", "serene", "calm", "elegant", "luxurious", "playful", "nostalgic", "professional", "opulent", "somber", "energetic"
+    "secondary_moods": [], // ["professional", "calm"]
+    "vibe": "a_quiet_reading_nook", // (free-form text, e.g., "a_busy_family_kitchen", "a_tech_exec's_office", "artist's_chaotic_studio")
+    "color_palette_type": "neutral_tones", // "monochromatic", "analogous", "complementary", "triadic", "split_complementary", "neutral_tones", "earth_tones", "pastels", "bold_and_vibrant", "high_contrast", "low_contrast", "jewel_tones", "achromatic"
+    "pattern_use": "minimal" // "none", "minimal" (e.g., "throw_pillows"), "moderate" (e.g., "area_rug", "wallpaper_accent"), "heavy" (e.g., "pattern_on_pattern")
+  },
+  "decor_materials_and_finishes": {
+    "primary_materials": [], // (e.g., "natural_wood", "brass", "velvet", "linen", "marble", "concrete", "rattan", "boucle", "glass", "leather", "chrome", "wicker", "terracotta", "limestone", "travertine", "acrylic", "lucite", "lacquer", "terrazzo")
+    "decor_items": [], // (e.g., "potted_plants", "sculptures", "books", "vases", "candles", "tech_gadgets", "family_photos", "vinyl_records_and_player", "personal_collections", "aromatic_diffuser", "pottery_collection", "board_games")
+    "wall_decor": "gallery_wall", // "none", "gallery_wall", "large_scale_art", "mirrors", "tapestry", "floating_shelves", "sconces"
+    "rug_style": null, // "persian_rug", "moroccan_rug", "jute_rug", "shag_rug", "overdyed_rug", "cowhide", "layered_rugs"
+    "plants": "several_potted_plants" // "none", "single_statement_tree" (e.g., "fiddle_leaf_fig"), "several_potted_plants", "hanging_plants", "succulents", "fresh_flowers", "dried_flowers"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "large_picture_windows", // "floor_to_ceiling_windows", "skylight", "bay_window", "french_doors", "small_windows", "clerestory_windows", "stained_glass", "glass_block_wall", "none"
+    "natural_light_quality": "soft_diffused", // "hard_direct_sunlight", "soft_diffused", "dappled", "streaming_rays" (god_rays), "glowing", "ambient", "low_light", "backlit", "overcast_flat"
+    "natural_light_intensity": "bright", // "intense", "bright", "moderate", "dim", "none"
+    "natural_light_direction": "side_light", // "front_light", "side_light", "backlight", "top_light"
+    "natural_light_color": "neutral_white", // "warm_golden", "neutral_white", "cool_blue_tint"
+    "artificial_light_sources": [], // ["recessed_lighting", "pendant_light", "table_lamp"] (e.g., "chandelier", "sconce", "floor_lamp", "track_lighting", "under_cabinet", "string_lights", "fireplace", "candles", "led_strips", "neon_sign", "task_light")
+    "artificial_light_type": "ambient", // "ambient", "task", "accent", "decorative", "layered" (mix)
+    "artificial_light_temperature": "warm", // "very_warm" (e.g., 2200K), "warm" (e.g., 2700K), "neutral" (e.g., 4000K), "cool" (e.g., 5000K), "mixed", "colored" (e.g., "blue", "purple")
+    "artificial_light_intensity": "moderate" // "dim", "subtle_accent", "moderate", "bright_task", "dramatic_spotlighting"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle", // "establishing_shot", "extreme_wide_shot", "wide_angle", "medium_shot", "full_shot", "straight_on", "vignette", "detail_shot", "macro_shot"
+    "camera_height": "human_height",
+    "shot_framing": "centered" // "centered", "rule_of_thirds", "asymmetrical", "symmetrical", "leading_lines"
+  },
+  "photographic_properties": {
+    "focal_length": "wide", // "ultra_wide" (e.g., 14mm), "wide" (e.g., 24-35mm), "standard" (e.g., 50mm), "portrait" (e.g., 85mm), "telephoto" (e.g., 135mm+), "macro"
+    "depth_of_field": "deep", // "shallow" (e.g., f/1.8, bokeh), "moderate" (e.g., f/5.6), "deep" (e.g., f/16, all_in_focus), "tilt_shift"
+    "focus_point": "center_of_room", // (free-form text, e.g., "the_sofa", "the_main_light_fixture", "the_view_out_the_window")
+    "image_style": "photorealistic", // "photorealistic", "hyperrealistic", "high_dynamic_range" (HDR), "high_resolution", "8k", "4k", "cinematic", "dramatic", "magazine_quality", "architectural_digest_style", "product_photo", "unreal_engine_render", "v_ray_render", "cgi"
+    "film_stock_style": null // "kodak_portra_400", "fujifilm_velvia", "ilford_hp5" (b&w), "polaroid", "technicolor"
+  },
+  "context_and_story": {
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

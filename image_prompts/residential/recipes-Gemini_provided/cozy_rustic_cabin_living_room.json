@@ -1,0 +1,91 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living_room",
+    "geographical_setting": "mountain",
+    "scene_scale": "room_view",
+    "time_of_day": "night",
+    "time_of_year": "winter",
+    "weather": "snowing",
+    "view_from_window": "snowy_forest_at_night"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "rustic",
+    "secondary_styles": ["farmhouse"],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "hygge",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "cozy",
+    "secondary_moods": ["warm", "inviting"],
+    "vibe": "a_warm_refuge_from_the_storm",
+    "color_palette_type": "earth_tones",
+    "dominant_colors": ["brown", "dark_green", "beige"],
+    "accent_colors": ["red_plaid", "black_iron"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "moderate"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "craftsman",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "vaulted_with_exposed_beams",
+    "ceiling_height": "double_height",
+    "flooring_material": "wide_plank_wood",
+    "wall_finish": "log_cabin_walls",
+    "windows_type": "large_picture_windows",
+    "fireplace_style": "rustic_stone_with_large_mantel",
+    "room_special_features": ["built_in_bookshelves"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["overstuffed_leather_sofa", "wooden_rocking_chairs", "large_log_coffee_table"],
+    "furniture_style": "rustic",
+    "furniture_age_condition": "worn",
+    "furniture_arrangement": "conversational_facing_fireplace",
+    "sofa_style": "lawson"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "none",
+    "primary_materials": ["rough_hewn_wood", "leather", "wool", "stone", "wrought_iron"],
+    "decor_items": ["trophy_mount_on_wall", "woven_baskets", "books", "candles"],
+    "wall_decor": "trophy_mount_on_wall",
+    "textiles": ["plaid_wool_throw_blankets", "faux_fur_rug"],
+    "rug_style": "faux_fur_rug",
+    "plants": "none",
+    "lighting_fixtures_style": "antler_chandelier"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "none",
+    "natural_light_quality": "none",
+    "artificial_light_sources": ["fireplace", "table_lamps", "chandelier"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "very_warm",
+    "artificial_light_intensity": "dim",
+    "shadow_quality": "soft_diffused",
+    "reflections": "subtle_sheen_on_wood"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "low_angle",
+    "camera_height": "table_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": "kodak_portra_400",
+    "saturation": "natural",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "lived_in",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "steaming_cup_of_coffee",
+    "people_present": "none",
+    "pets_present": "one_dog_sleeping_by_fire"
+  }
+}

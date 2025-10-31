@@ -1,0 +1,95 @@
+{
+  "scene_and_location": {
+    "location_type": "interior", // "interior", "exterior", "transition" (e.g., looking from sidewalk into cafe)
+    "business_type": "food_and_beverage", // "retail", "food_and_beverage", "hospitality", "office", "service", "entertainment", "civic", "transportation", "healthcare", "industrial"
+    "specific_business_type": "cafe", // (Retail: "luxury_boutique", "department_store", "flagship_store", "supermarket", "convenience_store", "bookstore", "pop_up_shop", "flea_market_stall", "electronics_store", "jewelry_store") (F&B: "fine_dining_restaurant", "fast_food_restaurant", "quick_service_restaurant" (QSR), "cafe", "coffee_shop", "bar", "cocktail_lounge", "nightclub", "brewery", "food_truck", "bakery", "butcher_shop") (Hospitality: "hotel_lobby", "boutique_hotel", "luxury_hotel_room", "resort_pool", "spa", "motel", "bed_and_breakfast", "hostel") (Office: "open_plan_office", "co_working_space", "boardroom", "corporate_lobby", "tech_startup_office", "law_office", "creative_agency_studio", "call_center") (Service: "bank_branch", "hair_salon", "barber_shop", "nail_salon", "fitness_studio", "gym", "laundromat", "post_office") (Entertainment: "art_gallery", "museum", "movie_theater_lobby", "cinema_interior", "concert_hall", "live_music_venue", "casino") (Civic: "library", "courthouse", "town_hall") (Healthcare: "hospital_waiting_room", "dental_office", "pharmacy") (Industrial: "warehouse", "factory_floor", "data_center")
+    "geographical_setting": "urban_downtown", // "urban_downtown", "suburban_strip_mall", "shopping_mall_interior", "roadside", "business_park", "historic_district", "tourist_area", "airport", "residential_street_corner", "industrial_park", "waterfront"
+    "time_of_day": "midday_rush", // "pre_opening" (e.g., "cleaning"), "morning", "midday_rush", "afternoon_lull", "evening_service", "late_night", "closed", "after_hours"
+    "time_of_year": "summer", // "spring", "summer", "autumn", "winter", "holiday_season" (e.g., "christmas_decorations", "sale_season"), "off_season"
+    "weather": "clear", // "clear", "sunny", "overcast", "rainy" (e.g., "wet_pavement_reflections"), "snowy", "foggy"
+    "weather_effect_on_scene": null // "none", "wet_floors_near_entrance", "snow_on_windowsill", "customers_with_umbrellas", "puddles_in_parking_lot"
+  },
+  "business_identity_and_branding": {
+    "brand_tier": "mid_range", // "luxury" (e.g., "gucci"), "premium" (e.g., "apple"), "mid_range" (e.g., "gap"), "value" (e.g., "walmart"), "discount" (e.g., "dollar_store"), "artisanal", "bespoke"
+    "brand_style": "artisanal", // "luxury", "high_end", "mainstream", "discount", "budget", "corporate", "minimalist_tech", "eco_friendly", "artisanal", "playful", "youth_oriented", "traditional", "family_owned_vibe"
+    "brand_colors_dominant": [], // ["hex_code", "color_name"] (e.g., ["#006241", "starbucks_green"])
+    "brand_colors_accent": [], // (e.g., ["#FFFFFF"])
+    "logo_presence": "prominent", // "none", "subtle" (e.g., "etched_on_glass", "on_napkins"), "moderate" (e.g., "on_uniforms"), "prominent" (e.g., "large_wall_sign"), "on_products", "on_signage"
+    "promotional_materials": "sale_signs" // "none", "subtle_marketing", "sale_signs", "discount_posters", "digital_displays_running_ads", "banners", "seasonal_promotions", "digital_menu_boards", "qr_codes_on_tables", "brochure_stand"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "industrial", // "modern", "minimalist", "contemporary", "industrial", "rustic", "bohemian", "traditional", "art_deco", "brutalist", "corporate", "scandinavian", "maximalist", "biophilic", "vintage", "retro", "futuristic", "themed", "gothic", "mediterranean"
+    "themed_style": null, // (e.g., "1950s_diner", "nautical", "sci_fi", "jungle_themed", "speak_easy", "pirate_bar", "hollywood_regency")
+    "secondary_styles": [], // ["bohemian", "rustic"]
+    "era_influence": "contemporary", // "1920s", "1950s", "1970s", "1980s", "contemporary", "futuristic", "victorian"
+    "design_philosophy": "experiential_design", // "experiential_design", "customer_flow_optimized", "instagrammable", "functionalist", "biophilic_design", "sense_of_community", "privacy_focused", "productivity_focused"
+    "design_focus": "product_display", // "product_display" (e.g., "apple_store"), "customer_experience" (e.g., "spa"), "comfort" (e.g., "lounge"), "efficiency" (e.g., "qsr"), "luxury" (e.g., "jeweler")
+    "level_of_formality": "casual" // "highly_formal" (e.g., "fine_dining"), "formal" (e.g., "corporate_bank"), "business_casual" (e.g., "co_working"), "casual" (e.g., "cafe"), "informal" (e.g., "dive_bar")
+  },
+  "mood_and_atmosphere": {
+    "primary_mood": "bustling", // "bustling", "serene", "calm", "exclusive", "welcoming", "energetic", "professional", "cozy", "trendy", "fast_paced", "relaxing", "dramatic", "intimate", "opulent", "somber", "playful", "sterile", "chaotic"
+    "vibe": "busy_morning_coffee_rush", // (free-form text, e.g., "quiet_independent_bookstore", "loud_stock_trading_floor", "exclusive_product_launch", "late_night_study_session_at_cafe", "tranquil_spa_waiting_room", "noisy_family_restaurant")
+    "maintenance_level": "well_maintained", // "pristine" (e.g., "pre_opening"), "spotless", "well_maintained", "lived_in", "gritty", "intentionally_distressed", "worn_but_clean", "messy", "dirty", "derelict", "under_renovation"
+    "sound_ambience_implied": "chatter_and_espresso_machines" // "loud_music", "quiet_whispers", "keyboard_clacking", "phone_ringing", "ambient_music", "silence", "traffic_noise", "machinery_humming", "announcements_on_pa"
+  },
+  "commercial_architecture_and_structure": {
+    "exterior_facade": "historic_brick", // "all_glass_storefront", "glass_curtain_wall", "historic_brick", "modern_concrete", "stucco", "metal_siding", "drive_thru_window", "ornate_historic_facade", "painted_mural_wall", "wood_paneling"
+    "storefront_type": "enclosed_with_display_window", // "open_air_facade" (e.g., "cafe_with_retracting_walls"), "enclosed_with_display_window", "recessed_entryway", "no_windows" (e.g., "nightclub"), "simple_door_on_street"
+    "scale": "intimate_shop", // "intimate_shop", "large_open_floor_plan", "multi_story", "warehouse_scale", "food_truck", "kiosk", "shopping_mall_unit", "skyscraper_ground_floor"
+    "layout": "open_plan", // "open_plan", "defined_aisles", "grid_layout" (e.g., "supermarket"), "free_flow_layout" (e.g., "boutique"), "guided_path_layout" (e.g., "ikea"), "intimate_zones", "booth_seating", "cubicle_farm", "perimeter_seating"
+    "key_structural_elements": "revolving_door", // "columns" (e.g., "ornate", "industrial_steel", "concrete"), "escalators", "atrium", "mezzanine", "grand_staircase", "revolving_door", "service_counter", "reception_desk", "bar", "exposed_trusses", "arched_doorways"
+    "ceiling_type": "exposed_ductwork", // "drop_ceiling", "acoustic_panels", "exposed_ductwork", "high_warehouse", "vaulted", "coffered", "beamed", "atrium_skylight", "flat_drywall", "tin_tile_ceiling"
+    "flooring_material": "polished_concrete", // "polished_concrete", "commercial_carpet", "carpet_tiles", "terrazzo", "epoxy_resin", "vinyl_composite_tile" (VCT), "hardwood", "ceramic_tile", "laminate", "rubber_flooring" (e.g., "gym"), "marble", "checkerboard_tile"
+    "accessibility_features": "ramp", // "ramp_visible", "wide_aisles", "automatic_doors", "elevator", "braille_signage", "accessible_counter_height"
+    "special_zones": [], // (e.g., "fitting_rooms", "VIP_lounge", "kitchen_pass", "stage", "projection_room", "waiting_area", "service_bar", "private_dining_room", "conference_rooms", "phone_booths")
+    "exterior_amenities": [] // "none", "outdoor_seating_area", "patio_heaters", "valet_stand", "bicycle_rack", "drive_thru_lane", "landscaped_planters", "neon_signage"
+  },
+  "commercial_fixtures_and_furnishings": {
+    "retail_fixtures": [], // "shelving_units" (gondola, wall-mounted), "gondola_endcaps", "display_tables", "mannequins", "pegboard", "slatwall", "clothing_racks" (circular, straight), "checkout_counter", "cash_wrap", "checkout_conveyor_belt", "kiosk", "product_display_cases" (e.g., "jewelry_counter"), "security_gates", "shopping_carts", "shopping_baskets"
+    "restaurant_fixtures": [], // "booths", "banquettes", "bar_counter", "bar_stools", "dining_tables", "host_stand", "service_station", "commercial_kitchen_equipment" (visible), "open_kitchen_pass", "sushi_bar", "oyster_bar", "wine_cellar_display", "buffet_station", "patio_heaters", "point_of_sale_system" (POS)
+    "hospitality_fixtures": [], // "check_in_desk", "reception_desk", "concierge_desk", "luggage_carts", "bellhop_station", "lobby_seating_area", "hotel_bed", "nightstands", "minibar_unit",R "room_service_trolley", "spa_massage_table", "poolside_cabana", "lounge_chairs"
+    "office_fixtures": [], // "cubicles", "workstations", "conference_table", "ergonomic_chairs", "reception_desk", "whiteboards", "video_conferencing_unit", "filing_cabinets", "hot_desks", "phone_booths" (privacy), "lounge_sofas", "bean_bag_chairs", "communal_table"
+    "furniture_style": "commercial_grade", // "commercial_grade", "custom_built", "designer", "functional", "modular", "vintage", "industrial_metal", "mismatched_eclectic"
+    "seating_type": "mixed" // "individual_chairs", "lounge_seating",G "bench_seating", "booths", "stools", "stadium_seating", "no_public_seating"
+  },
+  "signage_decor_and_merchandising": {
+    "product_type_visible": "apparel", // "none", "apparel", "electronics", "groceries", "fresh_produce", "books", "jewelry", "cars", "furniture", "toys", "cosmetics", "alcohol_bottles", "pastries"
+    "merchandising_style": "minimalist_display", // (for retail) "minimalist_display" (e.g., "apple_store"), "abundant_display" (e.g., "supermarket"), "color_coordinated", "themed_display", "interactive_display", "rummage_bin"
+    "merchandising_density": "sparse", // "sparse", "moderate", "dense", "cluttered", "floor_to_ceiling"
+    "exterior_signage": "neon_sign", // "neon_sign", "backlit_sign", "awning_sign", "monument_sign", "pylon_sign",CSS "digital_billboard", "blade_sign", "window_decals", "chalkboard_a_frame", "hand_painted_sign"
+    "interior_signage": "menu_board", // "wayfinding_signs", "department_signs", "menu_board" (digital/chalk/letter), "exit_signs", "restroom_signs", "ADA_signage", "digital_kiosk_screen", "branded_wall_graphics"
+    "decor_items": "large_plants", // "large_plants", "sculptural_art", "branded_merchandise", "mirrors", "water_feature", "digital_art_installation", "aquarium", "fireplace", "antiques", "trophy_case", "historical_photos"
+    "wall_decor": "mural", // "mural", "branded_graphics", "large_scale_art", "product_photos", "chalkboard_art", "exposed_brick", "wallpaper", "mirrored_wall", "pegboard", "mission_statement_wall"
+    "window_display": "none", // "none", "mannequins_in_current_fashion", "product_display", "promotional_posters", "video_screen", "seasonal_theme", "empty_and_dark" (closed), "curtains_drawn"
+    "plants": "several_potted_plants" // "none", "single_statement_tree", "several_potted_plants", "hanging_plants", "green_wall" (living wall), "floral_arrangements" (e.g., "lobby"), "succulents" (e.g., "on_desks"), "fake_plants"
+  },
+  "lighting_and_effects": {
+    "lighting_strategy": "layered", // "ambient", "task", "accent", "decorative", "dramatic", "branded_color_lighting", "layered" (mix), "functional_and_bright" (e.g., "supermarket")
+    "natural_light_source": "storefront_windows", // "storefront_windows", "skylights", "atrium", "none" (e.g., "bar", "theater"), "large_windows_with_view"
+    "artificial_light_sources": "track_lighting", // "track_lighting", "recessed_lighting", "pendant_lights", "chandeliers", "neon_lights", "led_strips", "backlighting" (for shelves/signs), "spotlights" (on products), "uplighting", "fluorescent_panels"
+    "lighting_fixture_style": "functional_spotlights", // "functional_spotlights", "industrial_pendants", "crystal_chandeliers", "edison_bulbs", "modern_sputnik", "office_fluorescent", "hidden_cove_lighting", "paper_lanterns"
+    "artificial_light_temperature": "neutral", // "warm" (e.g., "cozy_restaurant", 2700K), "neutral" (e.g., "retail/office", 4000K), "cool" (e.g., "clinical/supermarket", 5000K), "mixed", "colored_lighting" (e.g., "blue", "purple")
+    "light_effect": "spotlighting_on_products", // "gobo_projections" (logos), "wall_washing", "product_spotlighting", "dynamic_color_changing", "dim_and_moody", "bright_and_sterile", "lens_flare_from_spotlight"
+    "shadow_quality": "soft" // "hard_and_crisp", "soft_diffused", "deep_dramatic_shadows", "flat_and_minimal_shadows" (e.g., "fluorescent_lighting")
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle_interior", // "establishing_shot", "wide_angle_interior", "vignette" (e.g., "table_setting"), "product_detail", "architectural_detail", "straight_on_facade"
+    "camera_angle": "eye_level", // "eye_level", "low_angle" (dramatic), "high_angle" (showing layout), "overhead" (flat_lay_of_table), "bird's_eye_view"
+    "camera_height": "human_height", // "floor_level", "table_height", "human_height" (approx 5-6ft), "high_up" (e.g., 8ft), "drone_level"
+    "perspective": "one_point_perspective", // "one_point_perspective" (e.g., "down_an_aisle"), "two_point_perspective" (e.g., "corner_of_room"), "three_point_perspective", "isometric"
+    "focal_length": "wide", // "ultra_wide" (e.g., 14mm), "wide" (e.g., 24-35mm), "standard" (e.g., 50mm), "telephoto" (e.g., 85mm)
+    "depth_of_field": "deep", // "shallow" (e.g., f/1.8, "bar_bokeh"), "moderate", "deep" (e.g., f/16, "all_in_focus"), "tilt_shift"
+    "aspect_ratio": "16:9", // "1:1" (square, social_media), "4:3", "3:2", "16:9" (widescreen), "9:16" (vertical, story)
+    "image_style": "photorealistic", // "photorealistic", "cinematic", "magazine_quality", "architectural_digest_style", "product_advertisement", "unreal_engine_render", "v_ray_render"
+    "color_grading_style": null // "teal_and_orange", "warm_vintage", "cool_modern"
+  },
+  "activity_and_occupancy": {
+    "customer_density": "moderate_crowd", // "empty", "sparse", "few_customers", "moderate_crowd", "busy", "crowded", "packed", "line_at_counter"
+    "customer_activity": "browsing", // "browsing", "shopping", "dining", "talking", "working_on_laptops", "waiting_in_line", "socializing", "looking_at_art", "exercising"
+    "customer_demographic_implied": "young_professionals", // "young_professionals", "families_with_children", "tourists", "teenagers", "seniors", "business_people", "hipsters", "luxury_shoppers", "diverse_city_crowd"
+SYSTEM "staff_presence": "visible_staff", // "none", "visible_staff", "staff_at_work" (e.g., "barista_making_coffee", "cashier_at_register", "waiter_serving_table", "concierge_helping_guest", "stylist_with_client", "security_guard_at_door")
+    "staff_attire": "branded_t_shirts", // "none", "formal_uniforms" (e.g., "hotel_concierge"), "branded_t_shirts", "branded_aprons" (e.g., "barista"), "business_suits", "casual_clothing", "safety_vests"
+    "level_of_activity": "bustling", // "calm", "bustling", "fast_paced", "chaotic", "leisurely", "focused" (e.g., "office")
+    "evidence_of_use": "active_use" // "pristine" (pre-opening), "active_use" (e.g., "half-empty_plates", "shopping_bags", "messy_display", "coats_on_chairs"), "post-closing" (e.g., "cleaning_in_progress", "chairs_stacked_on_tables")
+  }
+}

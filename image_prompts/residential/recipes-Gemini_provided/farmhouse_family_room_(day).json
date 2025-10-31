@@ -1,0 +1,92 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "family_room",
+    "geographical_setting": "suburban",
+    "scene_scale": "room_view",
+    "time_of_day": "midday",
+    "time_of_year": "summer",
+    "weather": "clear",
+    "view_from_window": "backyard_with_play_set"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "farmhouse",
+    "secondary_styles": ["modern"],
+    "regional_style": null,
+    "era": "contemporary",
+    "design_philosophy": "hygge",
+    "level_of_formality": "casual"
+  },
+  "mood_and_color": {
+    "primary_mood": "inviting",
+    "secondary_moods": ["casual", "warm", "bright"],
+    "vibe": "a_busy_family_hub",
+    "color_palette_type": "neutral_tones",
+    "dominant_colors": ["white", "grey", "natural_wood"],
+    "accent_colors": ["black", "navy_blue"],
+    "color_temperature_bias": "warm",
+    "pattern_use": "moderate"
+  },
+  "architecture_and_structure": {
+    "architecture_style": "farmhouse",
+    "floor_plan_layout": "open_concept",
+    "ceiling_type": "flat",
+    "ceiling_height": "9ft",
+    "flooring_material": "engineered_wood",
+    "wall_finish": "shiplap_accent_wall",
+    "windows_type": "sash_windows",
+    "fireplace_style": "traditional_masonry",
+    "room_special_features": ["built_in_bookshelves"]
+  },
+  "furnishings_and_arrangement": {
+    "key_furniture_pieces": ["large_sectional_sofa", "distressed_wood_tv_stand", "large_coffee_table"],
+    "furniture_style": "farmhouse",
+    "furniture_age_condition": "lived_in",
+    "furniture_arrangement": "facing_tv",
+    "sofa_style": "sectional"
+  },
+  "decor_materials_and_finishes": {
+    "window_treatment": "roman_shades",
+    "primary_materials": ["distressed_wood", "cotton", "galvanized_metal", "linen"],
+    "decor_items": ["family_photos", "chalkboard_sign", "cotton_wreaths", "woven_baskets_for_toys"],
+    "wall_decor": "gallery_wall",
+    "textiles": ["striped_rug", "throw_pillows", "knit_blanket"],
+    "rug_style": "jute_rug",
+    "plants": "several_potted_plants",
+    "lighting_fixtures_style": "industrial_pendants"
+  },
+  "lighting_and_shadows": {
+    "natural_light_source": "sash_windows",
+    "natural_light_quality": "soft_diffused",
+    "natural_light_intensity": "bright",
+    "artificial_light_sources": ["recessed_lighting", "industrial_pendants"],
+    "artificial_light_type": "ambient",
+    "artificial_light_temperature": "warm",
+    "artificial_light_intensity": "bright",
+    "shadow_quality": "soft_diffused",
+    "reflections": "matte"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide_angle",
+    "camera_angle": "eye_level",
+    "camera_height": "human_height",
+    "shot_framing": "centered",
+    "perspective": "one_point_perspective",
+    "aspect_ratio": "16:9"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "deep",
+    "image_style": "photorealistic",
+    "film_stock_style": null,
+    "saturation": "natural",
+    "contrast": "medium"
+  },
+  "context_and_story": {
+    "level_of_clutter": "lived_in",
+    "age_of_space": "well_maintained",
+    "evidence_of_life": "toys_on_floor",
+    "people_present": "none",
+    "pets_present": "one_dog"
+  }
+}
