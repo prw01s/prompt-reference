@@ -1,0 +1,35 @@
+{
+  "scene": {
+    "location": "interior",
+    "room_type": "living room",
+    "scene_scale": "furniture vignette",
+    "time_of_day": "midday"
+  },
+  "style_and_aesthetics": {
+    "primary_style": "mid century modern"
+  },
+  "lighting_and_shadows": {
+    "natural_light_quality": "hard direct sunlight",
+    "natural_light_intensity": "bright",
+    "natural_light_direction": "side light",
+    "natural_light_color": "neutral white",
+    "artificial_light_type": "accent",
+    "artificial_light_temperature": "very warm (e.g., 2200K)",
+    "artificial_light_intensity": "bright task"
+  },
+  "camera_and_composition": {
+    "shot_type": "wide angle",
+    "camera_height": "human height",
+    "shot_framing": "centered"
+  },
+  "photographic_properties": {
+    "focal_length": "wide",
+    "depth_of_field": "narrow",
+    "focus_point": "wood chair",
+    "image_style": "photorealistic"
+  },
+  "context_and_story": {
+    "people_present": "none",
+    "pets_present": "none"
+  }
+}

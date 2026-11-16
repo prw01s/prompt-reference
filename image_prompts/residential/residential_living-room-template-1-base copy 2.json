@@ -7,29 +7,12 @@
   },
   "style_and_aesthetics": {
     "primary_style": "mid_century_modern", // "minimalist", "modern", "contemporary", "industrial", "scandinavian", "bohemian" (boho), "mid_century_modern", "traditional", "farmhouse", "rustic", "coastal", "art_deco", "maximalist", "japandi", "wabi_sabi", "victorian", "mediterranean", "craftsman", "gothic", "hollywood_regency", "shabby_chic", "eclectic", "brutalist", "biophilic"
-    "secondary_styles": [] // ["industrial", "boho"] - An array for blending styles
-  },
-  "mood_and_color": {
-    "primary_mood": "serene", // "cozy", "warm", "inviting", "bright", "airy", "spacious", "minimal", "moody", "dramatic", "serene", "calm", "elegant", "luxurious", "playful", "nostalgic", "professional", "opulent", "somber", "energetic"
-    "secondary_moods": [], // ["professional", "calm"]
-    "vibe": "a_quiet_reading_nook", // (free-form text, e.g., "a_busy_family_kitchen", "a_tech_exec's_office", "artist's_chaotic_studio")
-    "color_palette_type": "neutral_tones", // "monochromatic", "analogous", "complementary", "triadic", "split_complementary", "neutral_tones", "earth_tones", "pastels", "bold_and_vibrant", "high_contrast", "low_contrast", "jewel_tones", "achromatic"
-    "pattern_use": "minimal" // "none", "minimal" (e.g., "throw_pillows"), "moderate" (e.g., "area_rug", "wallpaper_accent"), "heavy" (e.g., "pattern_on_pattern")
-  },
-  "decor_materials_and_finishes": {
-    "primary_materials": [], // (e.g., "natural_wood", "brass", "velvet", "linen", "marble", "concrete", "rattan", "boucle", "glass", "leather", "chrome", "wicker", "terracotta", "limestone", "travertine", "acrylic", "lucite", "lacquer", "terrazzo")
-    "decor_items": [], // (e.g., "potted_plants", "sculptures", "books", "vases", "candles", "tech_gadgets", "family_photos", "vinyl_records_and_player", "personal_collections", "aromatic_diffuser", "pottery_collection", "board_games")
-    "wall_decor": "gallery_wall", // "none", "gallery_wall", "large_scale_art", "mirrors", "tapestry", "floating_shelves", "sconces"
-    "rug_style": null, // "persian_rug", "moroccan_rug", "jute_rug", "shag_rug", "overdyed_rug", "cowhide", "layered_rugs"
-    "plants": "several_potted_plants" // "none", "single_statement_tree" (e.g., "fiddle_leaf_fig"), "several_potted_plants", "hanging_plants", "succulents", "fresh_flowers", "dried_flowers"
   },
   "lighting_and_shadows": {
-    "natural_light_source": "large_picture_windows", // "floor_to_ceiling_windows", "skylight", "bay_window", "french_doors", "small_windows", "clerestory_windows", "stained_glass", "glass_block_wall", "none"
     "natural_light_quality": "soft_diffused", // "hard_direct_sunlight", "soft_diffused", "dappled", "streaming_rays" (god_rays), "glowing", "ambient", "low_light", "backlit", "overcast_flat"
     "natural_light_intensity": "bright", // "intense", "bright", "moderate", "dim", "none"
     "natural_light_direction": "side_light", // "front_light", "side_light", "backlight", "top_light"
     "natural_light_color": "neutral_white", // "warm_golden", "neutral_white", "cool_blue_tint"
-    "artificial_light_sources": [], // ["recessed_lighting", "pendant_light", "table_lamp"] (e.g., "chandelier", "sconce", "floor_lamp", "track_lighting", "under_cabinet", "string_lights", "fireplace", "candles", "led_strips", "neon_sign", "task_light")
     "artificial_light_type": "ambient", // "ambient", "task", "accent", "decorative", "layered" (mix)
     "artificial_light_temperature": "warm", // "very_warm" (e.g., 2200K), "warm" (e.g., 2700K), "neutral" (e.g., 4000K), "cool" (e.g., 5000K), "mixed", "colored" (e.g., "blue", "purple")
     "artificial_light_intensity": "moderate" // "dim", "subtle_accent", "moderate", "bright_task", "dramatic_spotlighting"
